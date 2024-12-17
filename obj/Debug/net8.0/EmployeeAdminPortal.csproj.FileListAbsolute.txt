@@ -1,0 +1,7 @@
+C:\Users\Ariel\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.AssemblyInfoInputs.cache
+C:\Users\Ariel\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.AssemblyInfo.cs
+C:\Users\Ariel\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ariel\source\repos\EmployeeAdminPortal\EmployeeAdminPortal\obj\Debug\net8.0\EmployeeAdminPortal.MvcApplicationPartsAssemblyInfo.cache
